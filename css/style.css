@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+p {
+    background-color: black;
+}
+
+p#intro {
+    background-color: yellow;
+}
+
+body {
+    background-color: pink;
+    background-image: url(https://media.licdn.com/dms/image/v2/D4E03AQHko9dww5c3OQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697217397304?e=2147483647&v=beta&t=oXkO4Sy6QI0pjtGcuK_vzwPRCakNmVEsILplq16WJVs)
+}
+
+.dikkevetterand {
+    border: 10px dashed black
+}
